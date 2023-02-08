@@ -6,3 +6,5 @@
 
 Das ist normaler Text
 > Zitat
+
+![Eisbär](Eisbär.png)
